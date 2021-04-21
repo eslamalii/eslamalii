@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslamalii&show_icons=true&theme=dark)](https://github.com/eslamalii/README.md)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamalii&layout=compact)](https://github.com/eslamalii/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamalii&layout=compact&show_icons=true&theme=dark)](https://github.com/eslamalii/README.md)
 
 
