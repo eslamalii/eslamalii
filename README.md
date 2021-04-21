@@ -75,3 +75,7 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
 [Spotify]: https://open.spotify.com/user/11153360645
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslamalii)](https://github.com/eslamalii/github-readme-stats)
+
