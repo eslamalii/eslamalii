@@ -11,6 +11,16 @@ eslamalii/eslamalii is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+### Contact with me 📝
+
+[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+
+<br />
+
+---
 
 ### Languages and Tools 🛠 
 
@@ -36,12 +46,32 @@ You can click the Preview link to take a look at your changes.
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+<br/>
+
+---
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+
+<br/>
+
+---
 
 ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
 
 ---
 
 [website]: http://bilgehangecici.site/
-[instagram]: https://www.linkedin.com/in/eslamalia/
+[instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
 [Spotify]: https://open.spotify.com/user/11153360645
