@@ -77,5 +77,5 @@ You can click the Preview link to take a look at your changes.
 [Spotify]: https://open.spotify.com/user/11153360645
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslamalii)](https://github.com/eslamalii/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslamalii&show_icons=true)](https://github.com/eslamalii/github-readme-stats)
 
