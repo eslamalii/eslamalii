@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Eslam Ali a passionate self-taught Android Developer from Egypt.
+- 👋 Hi, I’m Eslam Ali a passionate self-taught Full Stack MERN (React) from Egypt.
 
 
-- 👀 I’m interested in Mobile apps development 
+- 👀 I’m interested in React Web Development 
 
-- 🌱 I’m currently learning Flutter
 
 <!---
 eslamalii/eslamalii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
