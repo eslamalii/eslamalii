@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eslam Ali a passionate self-taught Full Stack MERN (React) from Egypt.
+- 👋 Hi, I’m Eslam Ali a passionate self-taught Full Stack MERN (React.js & Node.js) from Egypt.
 
 
 - 👀 I’m interested in React Web Development 
