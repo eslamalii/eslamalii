@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/eslamalia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://eslamali95.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://github.com/eslamalii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://eslam-ali-cv.tiiny.site"><img src="https://img.shields.io/badge/CV-PDF-FF0000?style=for-the-badge&logo=filetype-pdf&logoColor=white" alt="CV"/></a>
+  <a href="https://eslam-ali.tiiny.site"><img src="https://img.shields.io/badge/CV-PDF-FF0000?style=for-the-badge&logo=filetype-pdf&logoColor=white" alt="CV"/></a>
 </p>
 
 ---
