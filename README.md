@@ -62,7 +62,7 @@
   <tr>
     <td align="center"><strong>Frontend / Tools</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,postman">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,postman,jest">
     </td>
   </tr>
 </table>
