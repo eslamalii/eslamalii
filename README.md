@@ -36,14 +36,15 @@
   <tr>
     <td align="center"><strong>Backend</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun,rabbitmq">
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun,rabbitmq,pug">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="48" alt="Socket.io"/>
     </td>
+    
   </tr>
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js">
+      <img src="https://skillicons.dev/icons?i=ts,js,java">
     </td>
   </tr>
   <tr>
